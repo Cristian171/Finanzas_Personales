@@ -1,0 +1,8 @@
+C:\Users\crist\source\repos\Finanzas\Finanzas\bin\Debug\Finanzas.exe.config
+C:\Users\crist\source\repos\Finanzas\Finanzas\bin\Debug\Finanzas.exe
+C:\Users\crist\source\repos\Finanzas\Finanzas\bin\Debug\Finanzas.pdb
+C:\Users\crist\source\repos\Finanzas\Finanzas\obj\Debug\Finanzas.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Finanzas\Finanzas\obj\Debug\Finanzas.csproj.SuggestedBindingRedirects.cache
+C:\Users\crist\source\repos\Finanzas\Finanzas\obj\Debug\Finanzas.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Finanzas\Finanzas\obj\Debug\Finanzas.exe
+C:\Users\crist\source\repos\Finanzas\Finanzas\obj\Debug\Finanzas.pdb
