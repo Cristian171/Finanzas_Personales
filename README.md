@@ -1,2 +1,4 @@
-# Finanzas_Personales
-Almacenador de Gastos
+# Finanzas Personales
+- Almacenador de Gastos
+- Regresa los gastos
+
